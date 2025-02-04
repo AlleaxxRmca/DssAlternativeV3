@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DSSAlternative.Web",
   "resources": {
-    "hash": "sha256-Bz1veXF1M3vRtUQJjuVfGFK+sLc+hNb+hYkgd4ifPRo=",
+    "hash": "sha256-EVH8pIOBcI5KZSh2PPU52bqTwjzWaSe4RTA3xvh7XKc=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.u82zu8ujze.js": "sha256-HwwB2qlz2hu2EpN+DoKSE0JtfG6ht1rlUjfxHwt3rMU="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "DSSAlternative.AHP.wasm": "sha256-EInb2X0/Fb8Q7X4Ge5Jddsyc65sQK3mWTAk6IrLip4Y=",
-      "DSSAlternative.Web.wasm": "sha256-Nolu12oJOaJMY03t8ACC5iCEGRo26HiUPn4Jlu2n5tg=",
+      "DSSAlternative.Web.wasm": "sha256-9dwRCArlhbfe1JSWUJubdM/gunVf/iSMJbh4Wysvyso=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-E2PxunpmMY1zW5ZKQE2o1ofD4WaGPAWJ7ykGYJsTkI0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-qi6weliUVPkS+HrxwYoUolYYgDJrRAcLlCcHVeDy0TQ=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-nz0Iebql5tIYRPmtj1YLaF1sGZc1Rx4DB+G5ZgqWId0=",
