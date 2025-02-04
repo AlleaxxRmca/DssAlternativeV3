@@ -7,79 +7,79 @@
       "Name": "Оценка рисков проекта",
       "Level": 0,
       "Group": "Цель",
-      "GroupIndex": "Нет"
+      "GroupOwner": "Нет"
     },
     {
       "Name": "Финансовый",
       "Level": 1,
       "Group": "Критерий-Ф",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Маркетинговый",
       "Level": 1,
       "Group": "Критерий-М",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Организационный",
       "Level": 1,
       "Group": "Критерий-О",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Ф1",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-Ф"
+      "GroupOwner": "Критерий-Ф"
     },
     {
       "Name": "Ф2",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-Ф"
+      "GroupOwner": "Критерий-Ф"
     },
     {
       "Name": "Ф3",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-Ф"
+      "GroupOwner": "Критерий-Ф"
     },
     {
       "Name": "М1",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-М"
+      "GroupOwner": "Критерий-М"
     },
     {
       "Name": "М2",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-М"
+      "GroupOwner": "Критерий-М"
     },
     {
       "Name": "М3",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-М"
+      "GroupOwner": "Критерий-М"
     },
     {
       "Name": "О1",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-О"
+      "GroupOwner": "Критерий-О"
     },
     {
       "Name": "О2",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-О"
+      "GroupOwner": "Критерий-О"
     },
     {
       "Name": "О3",
       "Level": 2,
       "Group": "Риски",
-      "GroupIndex": "Критерий-О"
+      "GroupOwner": "Критерий-О"
     }
   ],
 

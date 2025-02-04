@@ -8,43 +8,43 @@
       "Name": "Подбор кандидата",
       "Level": 0,
       "Group": "Цель",
-      "GroupIndex": "Нет"
+      "GroupOwner": "Нет"
     },
     {
       "Name": "Опыт",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Знание технологий",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Конфликтность",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Кандидат 1",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     },
     {
       "Name": "Кандидат 2",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     },
     {
       "Name": "Кандидат 3",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     }
   ]
 }

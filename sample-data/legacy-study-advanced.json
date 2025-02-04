@@ -8,43 +8,43 @@
       "Name": "Выбор места учебы",
       "Level": 0,
       "Group": "Цель",
-      "GroupIndex": "Нет"
+      "GroupOwner": "Нет"
     },
     {
       "Name": "Репутация",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Местоположение",
       "Level": 1,
       "Group": "Критерий-Место",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Маршрут",
       "Level": 2,
       "Group": "Критерии",
-      "GroupIndex": "Критерий-Место"
+      "GroupOwner": "Критерий-Место"
     },
     {
       "Name": "Расстояние",
       "Level": 2,
       "Group": "Критерии",
-      "GroupIndex": "Критерий-Место"
+      "GroupOwner": "Критерий-Место"
     },
     {
       "Name": "Вариант А",
       "Level": 3,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     },
     {
       "Name": "Вариант Б",
       "Level": 3,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     }
   ],
 

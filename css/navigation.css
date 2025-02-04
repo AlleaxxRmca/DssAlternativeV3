@@ -1,6 +1,6 @@
 ﻿h2 {
-    margin: 12px 6px;
-    font-size: 1.5em;
+    margin: 10px 0px;
+    font-size: 1.4em;
     font-weight: normal;
 }
 h3{
@@ -8,10 +8,29 @@ h3{
     font-size: 1.35em;
     font-weight: normal;
 }
-.tab-header {
-    margin: 5px 0;
-    font-weight: 500;
+h4{
+    margin: 6px 0;
 }
+h5{
+    margin: 4px 0;
+}
+
+
+.tab-header {
+    margin: 2px 4px;
+}
+    h3.tab-header {
+        font-size: 1em;
+    }
+    .selected h3.tab-header{
+        font-weight: 500;
+    }
+    h4.tab-header{
+        font-weight: 400;
+    }
+    h5.tab-header {
+        font-weight: 400;
+    }
 
 
 .warning {
@@ -29,6 +48,64 @@ a.error {
     color: darkred;
 }
 
-.tab-items h4{
-    margin: 2px 4px;
+/* Меню этапов задачи */
+.stages-list a {
+    padding: 4px 2px;
+    text-decoration: none;
+    cursor: pointer;
+    color: darkblue;
 }
+    .stages-list a.active {
+        font-weight: 500;
+        color: black;
+    }
+
+.stages-list .warning a.active {
+    color: #986b00;
+}
+
+.stages-list a:hover {
+    color: blue;
+}
+
+.stages-list a.active:hover {
+    color: black;
+}
+
+.stage-menu .active .stage-element-image:hover {
+    opacity: 80%;
+}
+
+.stage-menu-element {
+    display: flex;
+    align-items: center;
+    padding: 4px 0;
+}
+
+.stage-menu .active .stage-element-image {
+    opacity: 100%;
+}
+
+/* Основное меню */
+.nav-menu-main a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 4px;
+    color: royalblue;
+}
+    .nav-menu-main a img {
+        height: 24px;
+        margin: 0 6px;
+        opacity: 0.25;
+    }
+    .nav-menu-main a:hover {
+        color: blue;
+    }
+    .nav-menu-main a.active {
+        color: black;
+        font-weight: 500;
+    }
+        .nav-menu-main a.active img {
+            opacity: 1;
+        }

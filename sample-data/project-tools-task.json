@@ -8,49 +8,49 @@
       "Name": "Выбор инструментария",
       "Level": 0,
       "Group": "Цель",
-      "GroupIndex": "Нет"
+      "GroupOwner": "Нет"
     },
     {
       "Name": "Приспособленность для проекта",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Знание командой",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Наличие документации",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Надежность технологии",
       "Level": 1,
       "Group": "Критерии",
-      "GroupIndex": "Цель"
+      "GroupOwner": "Цель"
     },
     {
       "Name": "Технология А",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     },
     {
       "Name": "Технология Б",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     },
     {
       "Name": "Технология B",
       "Level": 2,
       "Group": "Альтернативы",
-      "GroupIndex": "Критерии"
+      "GroupOwner": "Критерии"
     }
   ]
 }

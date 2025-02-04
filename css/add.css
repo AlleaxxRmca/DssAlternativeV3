@@ -8,8 +8,18 @@ th {
 .center {
     align-items: center;
 }
+.status-panel {
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+}
+.actions-panel {
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+}
 
 .action-button {
+    color: darkslategray;
     background-color: white;
     border: 1px solid silver;
     border-radius: 2px;
@@ -19,6 +29,8 @@ th {
 
     display: flex;
     align-items: center;
+
+    margin: 4px 2px;
 }
 .action-button:hover{
     background-color: whitesmoke;
@@ -27,10 +39,21 @@ th {
     background-color: gainsboro;
 }
 
+
+.button-less-margin {
+    margin: 0 4px;
+}
+
     .action-button img {
-        height: 20px;
-        margin: 2px 6px;
+        height: 15px;
+        margin: 2px;
         opacity: 0.7;
+    }
+    .action-button:hover img {
+        opacity: 1;
+    }
+    .action-button:active img {
+        opacity: 1;
     }
 
 
@@ -69,6 +92,21 @@ th {
     }
 
 
+.remove-task {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    align-self: flex-start;
+    margin: 5px 0;
+    padding: 5px 7px;
+    color: darkred;
+}
+
+    .remove-task:hover {
+        background-color: lightpink;
+    }
+
+
 .option-section {
     display: flex;
     justify-content: space-between;
@@ -90,4 +128,64 @@ th {
 
     .option-input[type=number] {
         width: 8em;
+    }
+
+
+    .text-center{
+        text-align: center;
+    }
+    .text-header4{
+
+    }
+    .text-em-12{
+        font-size: 1.2em;
+    }
+    .text-em-11 {
+        font-size: 1.1em;
+    }
+    .text-em-08 {
+        font-size: 0.8em;
+    }
+
+    .no-margin{
+        margin: 0;
+    }
+    .margin-bottom-5{
+        margin-bottom: 5px;
+    }
+
+
+.status-bar {
+    margin: 5px 10px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    min-height: 2em;
+    font-size: 0.9em;
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+    padding: 8px 0;
+    border-width: 0;
+}
+
+.status-bar-info {
+    align-self: center;
+    flex: 6;
+}
+
+.status-bar-properties {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 5px 10px;
+    font-size: 0.9em;
+}
+
+    .status-bar-properties .property-name {
+        color: gray;
+    }
+
+    .status-bar-properties .property-value {
+        margin-right: 2em;
+        margin-left: 4px;
     }
